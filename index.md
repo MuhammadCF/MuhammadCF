@@ -27,7 +27,7 @@ git commit -m
 U can access my profile [here](https://github.com/MuhammadCF)
 
 ### Section Link:
-This is how you access [Quotation section](https://github.com/MuhammadCF)
+This is how you access [Quotation section](https://github.com/MuhammadCF/MuhammadCF/blob/main/index.md#quotation)
 
 ### Relative Link:
 [the readme](README.md)
